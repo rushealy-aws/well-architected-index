@@ -1,6 +1,6 @@
 # well-architected-index
 
-##The full library of Well Architected Framework guides are available here:##
+## The full library of Well Architected Framework guides are available here:
 
 1. **Cost Optimization** - [Cost Optimization Pillar Guide](https://github.com/rushealy-aws/well-architected-guide-cost-pillar)
 2. **Reliability** - [Reliability Pillar Guide](https://github.com/rushealy-aws/well-architected-guide-reliability-pillar)
